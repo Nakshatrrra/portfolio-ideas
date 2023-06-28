@@ -263,6 +263,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Mike Liu                | ![Mike Liu portfolio](https://github.com/mikeliuu/portfolio-ideas/assets/62628408/58e8d844-6532-4d73-9627-336fc2a01bbb)                                                   | [mikeliuu.com](https://mikeliuu.com)                                                | [Github](https://github.com/mikeliuu/mikeliuu.com)                       | NextJS, TypeScript, Tailwind CSS, HTML, CSS, Vercel                                                            |
 | Bryan Smith             | ![personal](https://github.com/multikitty/portfolio-ideas/assets/124760226/01f1ef98-e12c-4a96-9858-4f8d51197bb1)                                                          | [multikitty.onrender.com](https://multikitty.onrender.com)                          | [Github](https://github.com/multikitty/multikitty.github.io)             | HTML, CSS, JavaScript                                                                                          |
 
+| Nakshatra Trivedi             | ![Nakshatra portfolio]()                                                          | [nakshatrrra.github.io/portfolio.github.io/](https://nakshatrrra.github.io/portfolio.github.io/)                          | [Github](https://nakshatrrra.github.io/portfolio.github.io/)             | HTML, CSS, JavaScript                                                                                          |
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
